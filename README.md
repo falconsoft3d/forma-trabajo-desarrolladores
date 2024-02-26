@@ -4,4 +4,10 @@
 3. Instalas en produccion.
 4. Tenemos que tener dos base de datos ( db17-spain y db17-test ).
 5. Actualiza el documento.
-6. Antes de irete necesito una captura de el documento y el odoo producción con los módulos instalados.
+6. Antes de salir necesito una captura del documento de control y el odoo producción con los módulos instalados.
+
+# Como revisar un modulo
+1- Vas a comentar todas las vistas y traducciones
+2- Probar si instala
+3- Enpiesas a descomentar vista por vista
+4- comento todos los modelos
