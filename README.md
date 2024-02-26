@@ -7,7 +7,7 @@
 6. Antes de salir necesito una captura del documento de control y el odoo producción con los módulos instalados.
 
 # Como revisar un modulo
-1- Vas a comentar todas las vistas y traducciones
-2- Probar si instala
-3- Enpiesas a descomentar vista por vista
-4- comento todos los modelos
+1. Vas a comentar todas las vistas y traducciones
+2. Probar si instala
+3. Enpiesas a descomentar vista por vista
+4. comento todos los modelos
